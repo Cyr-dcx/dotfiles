@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = cyrielle.deceneux@gmail.com
+	name = Cyrielle Deceneux
